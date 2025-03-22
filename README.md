@@ -1,4 +1,4 @@
 # Pandas exercises
 
 
-[Voir les exercices](exercises.md)
+[exercices are here](exercises.md)
