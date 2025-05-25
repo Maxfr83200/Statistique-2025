@@ -11,3 +11,5 @@ https://github.com/kflisikowsky/pandas_exercises
 [exercice 5,6,7 are here](Exercises5_and_6.md)
 
 [exercice 8 is here](Exercise8.md)
+
+[exercice 9 is here](Exercise9.md)
